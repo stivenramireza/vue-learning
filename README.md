@@ -1,4 +1,4 @@
-# Vue.js Fundamentals
+# Vue.js Learning
 
 Fundamental concepts and exercises about Vuej.js.
 
